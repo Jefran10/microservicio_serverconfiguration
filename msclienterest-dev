@@ -1,1 +1,5 @@
 cliente.properiey = msclienterest entorno Desarrollo
+
+logging.level.org.hibernate.sql=debug 
+spring.jpa.show-sql= true
+spring.jpa.hibernate.ddl-auto=update
